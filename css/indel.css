@@ -1122,3 +1122,6 @@ li:hover{
 	box-shadow: 0 0 0 0;
 	transform: translateY(0);
 }
+.znyj_left,.znyj_item,.reping_bottom_item.neirong,.shipin_bottom_1,.znyj_itemtop,.znyj_item5{
+	transition: all 0.5s ease-out;
+}
